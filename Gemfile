@@ -54,3 +54,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pg', group: :production
 gem 'devise'
+gem 'jquery-rails'
+gem 'bootstrap-sass'
