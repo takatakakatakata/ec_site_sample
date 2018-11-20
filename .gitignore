@@ -4,3 +4,11 @@ tmp/cache/assets/sprockets/v3.0/ep/epd89Ca0It8GajVgsmIxHSVONM759XuWeQPZmrhE9SM.c
 log/development.log
 
 log/development.log
+
+tmp/cache/assets/sprockets/v3.0/_c/_chZE-1Arl9oa-F_2xC2dOYMg53aACs3BKixjNwrxwY.cache
+
+*.cache
+
+*.pid
+
+tmp/pids/server.pid
